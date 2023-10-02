@@ -6,6 +6,11 @@ I only tested the stand alone synth on the Pi 4 with 4gb ram so good luck with P
 to verify your system has 64 bit system running in a command line type getconf LONG_BIT it should return 64  NOT 32.
 install deb as you would any other deb file with sudo apt install ./<deb package>
 
+Seems the files are too big for github so I put the files on my google drive hope that's ok:
+https://drive.google.com/file/d/19GlzSFBOFh0F4OjKMMcn45gzuWQKQAXZ/view?usp=sharing
+https://drive.google.com/file/d/1GJ9MQ0vVE4hJ0ohLsT_6JTb2GZEa75Ee/view?usp=sharing
+[https://drive.google.com/drive/folders/1-z40uk8pv3vAiLS1_vHuY_x0Fg1JtzeN?usp=drive_link](https://drive.google.com/drive/folders/1-z40uk8pv3vAiLS1_vHuY_x0Fg1JtzeN?usp=sharing)
+
 to run it just type 'Surge XT' in a term.  I presently am running it in Audio device type: ALSA with bcm2835 Headphones: Direct hardware.
 I have not yet tested it with jackd but it looks to have support for that too.
 I am using a LinnStrument midi over usb with MPE enaable to drive it directly no added software and let me say it is fantasitc.
